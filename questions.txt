@@ -1,0 +1,55 @@
+Environment Awareness
+
+“What is in front of me?”
+
+“Is the path clear to go straight?”
+
+“What obstacles are nearby?”
+
+“Anyone close to me?”
+
+🚶 Navigation & Safety
+
+“Can I pass through now?”
+
+“Should I turn left or right?”
+
+“Is it safe to cross the street?”
+
+“Are there stairs ahead?”
+
+“Is there a chair blocking my way?”
+
+👥 Social & Interaction
+
+“Is there a person near me I can approach?”
+
+“Can you guide me to the person ahead?”
+
+“Anyone walking towards me?”
+
+🚗 Traffic & Hazards
+
+“Are there cars nearby?”
+
+“Is there a vehicle moving close?”
+
+“Is the traffic light red or green?”
+
+“Do I need to wait before crossing?”
+
+🏠 Indoor Scenarios
+
+“Is there a table in front of me?”
+
+“Can I walk to the couch safely?”
+
+“Any obstacles in the room?”
+
+🧠 Knowledge-Base Assisted
+
+“What should I do if a car is near?”
+
+“How should I approach stairs safely?”
+
+“What do I do when the traffic light is red?”

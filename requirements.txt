@@ -1,0 +1,12 @@
+torch
+ultralytics
+opencv-python
+numpy
+groq
+requests
+gtts
+pyttsx3
+speechrecognition
+pyaudio
+tkinter
+flask
